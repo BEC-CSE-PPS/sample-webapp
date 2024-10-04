@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Welcome to BEC & CSE!" %></h2>
+<h2><%= "Welcome to Bapatla Engineering College!" %></h2>
 </body>
 </html>
